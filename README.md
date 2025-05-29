@@ -6,7 +6,7 @@
 - 💞️ Looking to collaborate on small, educational neural network projects that anyone can build to better understand modern AI.
 - 📫 Reach me via one77r@gmail.com
 - 📍 Based in Shanghai, China.
-- ⚡ Fun fact: I sing 渡情(*白娘子传奇* 主题曲) every time I go to karaoke!
+- ⚡ Fun fact: I sing 渡情(*白娘子传奇* 主题曲) every time I go to karaoke.
 ‎
 
 ‎‎‎
