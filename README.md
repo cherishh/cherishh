@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuatara2025
+- 👋 Hi, I’m @cherishh
 - 👀 I’m interested in web develop and AI that help people improve their relationship with others
 - 🌱 I’m currently learning all AI related knowledge as I can
 - 💞️ I’m looking to collaborate on building samll educational neuronal networks(that ordinary people can do on their own to get a sense of AI teachnology)
