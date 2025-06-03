@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @cherishh
 - 💻 I work as a full-stack web developer.
-- 👀 Huge passion about AI—especially in health, relationships, and education.
+- 👀 Huge passion about AI—especially in health, relationships, music, and education.
 - 🌱 Currently diving into all things AI: machine learning & deep learning, agents, generative AI, and more.
 - 💞️ Looking to collaborate on small, educational neural network projects that anyone can build to better understand modern AI.
 - 📫 Reach me via one77r@gmail.com
