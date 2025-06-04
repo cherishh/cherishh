@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @cherishh
 - 💻 I work as a full-stack web developer.
 - 👀 Huge passion about AI—especially in relationships, music, education, and health.
-- 🌱 Currently diving into all things AI: machine learning & deep learning, agents, generative AI, and more.
+- 🌱 Currently diving into: machine learning & deep learning, agents, AI music, and more.
 - 💞️ Looking to collaborate on small, educational neural network projects that anyone can build to better understand modern AI.
 - 📫 Reach me via one77r@gmail.com
 - 📍 Based in Shanghai, China.
