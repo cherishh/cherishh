@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @cherishh
 - 💻 I work as a full-stack web developer.
-- 👀 Huge passion about AI—especially in relationships, music, education, and health.
+- 👀 Huge passion about AI—especially in relationships, music, and health.
 - 🌱 Currently diving into: machine learning & deep learning, agents, AI music, and more.
-- 💞️ Looking to collaborate on small, educational neural network projects that anyone can build to better understand modern AI.
+- 💞️ Looking to collaborate on small or pet projects that help people improve their relationships with others.
 - 📫 Reach me via one77r@gmail.com
 - ⚡ Fun fact: I sing 渡情(*白娘子传奇* 主题曲) every time I go to karaoke.
 ‎
