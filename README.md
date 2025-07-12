@@ -4,7 +4,7 @@
 - 👀 Huge passion about AI—especially in relationships, music, and generic purpose personal assistant.
 - 🌱 Currently diving into: machine learning & deep learning fundamentals, agents, AI music, and more.
 - 💞️ Looking to collaborate on small or pet projects that help people improve their relationships with others.
-- 📫 Reach me via one77r@gmail.com
+- 🔗 Check my work here: https://tuxi.dev
 - ⚡ Fun fact: I sing 渡情(*白娘子传奇* 主题曲) every time I go to karaoke.
 ‎
 
