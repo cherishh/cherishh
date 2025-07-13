@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @cherishh
 - 💻 I work as a full-stack web developer.
 - 👀 Huge passion about AI—especially in relationships, music, and personal assistant.
-- 🌱 Currently diving into: machine learning & deep learning fundamentals, agents, AI music, and more.
-- 💞️ Looking to collaborate on small or pet projects that help people improve their relationships with others.
+- 🌱 Currently diving into: agents, AI music, machine learning & deep learning fundamentals, and more.
+- 💞️ Looking to collaborate on experimental or side projects that help people better understand and reply to messages.
 - 🔗 Check my work here: https://tuxi.dev
 - ⚡ Fun fact: I sing 渡情(*白娘子传奇* 主题曲) every time I go to karaoke.
 ‎
