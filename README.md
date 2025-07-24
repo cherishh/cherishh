@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @cherishh
 - 💻 I work as a full-stack web developer.
-- 👀 Huge passion for AI — especially in fostering meaningful human relationships, humanizing AI, and making great music.
+- 👀 Huge passion for AI — especially in fostering meaningful human relationships, creating truly personal assistants, and making great music.
 - 🌱 Currently diving into: AI agents, AI music, ML/DL fundamentals, and more.
 - 💞️ Looking to collaborate on side projects that help people "read between the lines" and respond in their own style.
 - 🔗 Check out my work: https://tuxi.dev
