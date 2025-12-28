@@ -3,7 +3,7 @@
 - 💻 I work as a full-stack web developer.
 - 👀 Huge passion for AI — especially in fostering meaningful human relationships and humanizing AI.
 - 🌱 Currently diving into: AI music.
-- 🔗 Check out my work: https://tuxi.dev
+- 🔗 Check out my work: https://tuxi.dev 
 - ⚡ Fun fact: I sing *渡情* (*白娘子传奇* theme song) every time I go to karaoke.
 ‎
 
